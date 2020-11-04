@@ -12,19 +12,6 @@
   .footer {
     justify-content: space-between;
     align-items: center;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .footer {
-    /* margin-top: 195px; */
-
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .footer {
-    /* margin-top: 245px; */
-
+    margin-top: 88px;
   }
 }
