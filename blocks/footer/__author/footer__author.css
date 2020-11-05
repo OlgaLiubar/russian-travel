@@ -13,8 +13,3 @@
   }
 }
 
-@media screen and (min-width: 1024px) {
-  .footer__author {
-    line-height: 1;
-  }
-}
