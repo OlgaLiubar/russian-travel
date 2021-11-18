@@ -1,7 +1,7 @@
-# Yandex Praktikum
-Проектная работа "Путешествия по России"
+# Путешествия по России
+Проектная работа курса веб-разработки Яндекс.Практикума 
 
-https://olgaliubar.github.io/russian-travel/
+Ссылка на сайт: https://olgaliubar.github.io/russian-travel/
 
 ------------------------------------
 
